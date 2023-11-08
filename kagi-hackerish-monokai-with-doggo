@@ -1,0 +1,201 @@
+/* Set custom theme colors */
+
+:root {
+
+  --search-result-title: var(--color-primary);
+  
+  --result-item-title-border: var(--color-primary);
+
+}
+
+/* Use monospace font for body text */
+
+body {
+
+  font-family: monospace;
+
+}
+
+/* Style search result titles */
+
+.__sri-title .__sri_title_link {
+
+  color: var(--search-result-title);
+
+}
+
+.__sri-title .__sri_title_link:visited {
+
+  color: var(--color-primary_visited);
+  
+  border-bottom: 1px solid var(--color-primary_visited);
+
+}
+
+.__sri-title .__sri_title_link:hover {
+
+  color: #C63563;
+  
+  border-bottom: 1px solid #C63563;
+
+}
+
+/* Style buttons */ 
+
+.btn.--yellow {
+
+  background-color: #191919;
+  
+  border: 1px solid #191919;
+  
+  color: #FFFFFF;
+
+  transition: ease 150ms;
+
+}
+
+.btn.--yellow:hover {
+
+  background-color: #191919;
+  
+  border: 1px solid #191919;
+  
+}
+
+/* Hover styles */
+
+.btn.--yellow:hover {
+
+  background-color: #191919;
+
+  border: 1px solid #C63563;
+
+  transform: scale(1.05);
+
+}
+
+/* Outer glow on hover */
+
+.btn.--yellow:hover::after {
+
+  content: '';
+
+  position: absolute;
+
+  top: 0;
+
+  left: 0; 
+
+  width: 100%;
+
+  height: 100%;
+
+  border-radius: inherit;
+
+  box-shadow: 0 0 1rem 0.5rem #C63563;
+
+  opacity: 0.6;
+
+}
+
+/* Style category buttons */
+
+.landing-category-select button.n_se.--active, 
+.landing-category-select button.n_se:hover {
+
+  border-bottom: 2px solid var(--color-primary_visited)
+
+}
+
+/* Style search result titles */
+
+.__srgi-title a {
+
+  color: var(--search-result-title);
+  
+  border-bottom: 1px solid var(--result-item-title-border);
+
+  font-size: 1rem
+
+}
+
+.__srgi-title a:visited {
+
+  color: var(--color-primary_visited);
+
+  border-bottom: 1px solid var(--color-primary_visited);
+
+}
+
+.__srgi-title a:hover {
+
+  color: #C63563;
+
+  border-bottom: 1px solid #C63563;
+
+}
+
+
+/* Style dropdown on hover */
+
+.dropdown .dd-toggle-label:hover {
+
+  color: #C63563;
+
+}
+
+/* Style summary link */
+
+._0_summarize_link a {
+
+  color: var(--color_link);
+
+}
+
+._0_summarize_link a:hover {
+
+  color: #C63563;
+
+}
+
+/* Style dropdown items on hover */
+
+.k_ui_dropdown .k_ui_dropdown_first_item:hover {
+
+  color: #C63563;
+
+}
+
+/* Style all links on hover */
+
+a:hover {
+
+  color: #C63563;
+
+}
+
+/* Style active search modes */
+
+._0_d_info_ranking.k_ui_btn_group .search_mode_box_s input:checked + a.k_ui_btn, 
+._0_sri-w-highlight .search_mode_box_s a.searchResultAnswer, 
+.search_mode_box_s ._0_d_info_ranking.k_ui_btn_group input:checked + a.k_ui_btn,
+.search_mode_box_s ._0_sri-w-highlight a.searchResultAnswer,
+.search_mode_box_s a.--active, 
+.search_mode_box_s a._0_sri-w-highlight.box,
+.search_mode_box_s a.box:hover {
+
+  background-color: #C63563;
+  
+  border: #C63563;
+  
+  color: var(--color-primary);
+
+}
+
+._0_results_summary_links ol a:hover {
+    color: #C63563 !important
+}
+
+.k_ui_toggle_switch.--enabled .k_ui_toggle_switch_bar {
+    background-color: #C63563
+}
