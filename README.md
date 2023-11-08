@@ -42,3 +42,9 @@ by [mauromotion](https://github.com/mauromotion)
 
 [🔗 Get it](https://github.com/mauromotion/Kagi-Gruvbox-Material-themes/blob/main/kagi-grubox-material-medium-dark.css)
 ![image](kagi-grubox-material-medium-dark.png)
+
+## kagi-search-custom-css
+by [MattRangel](https://github.com/MattRangel)
+
+[🔗 Get it](https://github.com/MattRangel/kagi-search-custom-css)
+![image](kagi-search-custom-css.png)
