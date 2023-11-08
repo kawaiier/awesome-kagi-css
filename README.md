@@ -54,3 +54,9 @@ by [maxpl01t](https://github.com/maxpl01t)
 
 [🔗 Get it](https://gist.github.com/maxpl01t/7de6e4716e50d52f4ec14aa01e2047e0)
 ![image](kagi-hackerish-monokai.png)
+
+## kagi-solarized
+by [RoarkGit](https://github.com/RoarkGit)
+
+[🔗 Get it](https://gist.github.com/RoarkGit/2074f3b71efdb55efde608627179ed54)
+![image](kagi-solarized.png)
