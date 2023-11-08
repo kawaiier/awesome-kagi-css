@@ -24,3 +24,9 @@ by [exsesx](https://github.com/exsesx)
 
 [🔗 Get it](https://github.com/exsesx/kagi-dark-theme)
 ![image](kagi-dark-theme.png)
+
+## kagi-dark-theme
+by [neilio](https://github.com/neilio)
+
+[🔗 Get it](https://gist.github.com/neilio/c2c3495ff16c0a0401f4cf630438e1b3)
+![image](kagi-google.png)
