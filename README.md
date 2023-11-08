@@ -88,3 +88,9 @@ by [auphone](https://auphone.net/)
 
 [🔗 Get it](https://auphone.net/posts/kagi-gruvbox-dark-theme-css/)
 ![image](kagi-gruvbox-dark-theme.png)
+
+## kagi-mathiazom
+by [mathiazom](https://github.com/mathiazom)
+
+[🔗 Get it](https://gist.github.com/mathiazom/ccbdd3bd8ff7da8e010546fa186b1e70)
+![image](kagi-mathiazom.png)
