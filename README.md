@@ -1,5 +1,9 @@
 # awesome-kagi-css
-A collection of custom Kagi themes with screenshots
+A collection of custom Kagi themes with screenshots.
+
+More themes in [Discord](https://kagi.com/discord) and [Reddit](https://www.reddit.com/r/KagiUserCSS/).
+
+Read about [customizing Kagi CSS](https://help.kagi.com/kagi/features/custom-css.html).
 
 ## kagi-brave-theme
 by [httpjamesm](https://github.com/httpjamesm)
