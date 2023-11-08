@@ -18,3 +18,9 @@ by [joshellington](https://github.com/joshellington)
 
 [🔗 Get it](https://gist.github.com/joshellington/51765a15d8f780089619b638fc6aea6b)
 ![image](kagi-darkmustard-theme.png)
+
+## kagi-dark-theme
+by [exsesx](https://github.com/exsesx)
+
+[🔗 Get it](https://github.com/exsesx/kagi-dark-theme)
+![image](kagi-dark-theme.png)
