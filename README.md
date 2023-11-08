@@ -12,3 +12,9 @@ by [jamesjlyons](https://github.com/jamesjlyons)
 
 [🔗 Get it](https://gist.github.com/jamesjlyons/26682982319ca84b7bee991eb158ce49)
 ![image](cozy-kagi-theme.png)
+
+## kagi-darkmustard-theme
+by [joshellington](https://github.com/joshellington)
+
+[🔗 Get it](https://gist.github.com/joshellington/51765a15d8f780089619b638fc6aea6b)
+![image](kagi-darkmustard-theme.png)
