@@ -82,3 +82,9 @@ by rasti
 
 [🔗 Get it](https://help.kagi.com/kagi/features/custom-css.html)
 ![image](slimmed-down-theme.png)
+
+## kagi-gruvbox-dark-theme
+by [auphone](https://auphone.net/)
+
+[🔗 Get it](https://auphone.net/posts/kagi-gruvbox-dark-theme-css/)
+![image](kagi-gruvbox-dark-theme.png)
