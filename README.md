@@ -72,3 +72,9 @@ by El Dude
 
 [🔗 Get it](https://help.kagi.com/kagi/features/custom-css.html)
 ![image](enhanced-dark-theme.png)
+
+## slimmed-down-theme
+by rasti
+
+[🔗 Get it](https://help.kagi.com/kagi/features/custom-css.html)
+![image](slimmed-down-theme.png)
