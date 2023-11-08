@@ -30,3 +30,15 @@ by [neilio](https://github.com/neilio)
 
 [🔗 Get it](https://gist.github.com/neilio/c2c3495ff16c0a0401f4cf630438e1b3)
 ![image](kagi-google.png)
+
+## kagi-grubox-material-medium-light
+by [mauromotion](https://github.com/mauromotion)
+
+[🔗 Get it](https://github.com/mauromotion/Kagi-Gruvbox-Material-themes/blob/main/kagi-grubox-material-medium-light.css)
+![image](kagi-grubox-material-medium-light.png)
+
+## kagi-grubox-material-medium-dark
+by [mauromotion](https://github.com/mauromotion)
+
+[🔗 Get it](https://github.com/mauromotion/Kagi-Gruvbox-Material-themes/blob/main/kagi-grubox-material-medium-dark.css)
+![image](kagi-grubox-material-medium-dark.png)
