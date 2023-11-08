@@ -66,3 +66,9 @@ by [RoarkGit](https://github.com/RoarkGit)
 
 [🔗 Get it](https://gist.github.com/RoarkGit/2074f3b71efdb55efde608627179ed54)
 ![image](kagi-solarized.png)
+
+## enhanced-dark-theme
+by El Dude
+
+[🔗 Get it](https://help.kagi.com/kagi/features/custom-css.html)
+![image](enhanced-dark-theme.png)
