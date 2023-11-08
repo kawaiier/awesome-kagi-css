@@ -48,3 +48,9 @@ by [MattRangel](https://github.com/MattRangel)
 
 [🔗 Get it](https://github.com/MattRangel/kagi-search-custom-css)
 ![image](kagi-search-custom-css.png)
+
+## kagi-hackerish-monokai
+by [maxpl01t](https://github.com/maxpl01t)
+
+[🔗 Get it](https://gist.github.com/maxpl01t/7de6e4716e50d52f4ec14aa01e2047e0)
+![image](kagi-hackerish-monokai.png)
