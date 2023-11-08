@@ -63,6 +63,8 @@ by [MattRangel](https://github.com/MattRangel)
 by [maxpl01t](https://github.com/maxpl01t)
 
 [🔗 Get it](https://gist.github.com/maxpl01t/7de6e4716e50d52f4ec14aa01e2047e0)
+
+[🔗 Alternative version with the doggo](https://github.com/TheLastEnvoy/thelastenvoy) by [TheLastEnvoy](https://github.com/TheLastEnvoy/)
 ![image](kagi-hackerish-monokai.png)
 
 ## kagi-solarized
