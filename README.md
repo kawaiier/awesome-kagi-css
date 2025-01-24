@@ -5,6 +5,12 @@ More themes in [Discord](https://kagi.com/discord) and [Reddit](https://www.redd
 
 Read about [customizing Kagi CSS](https://help.kagi.com/kagi/features/custom-css.html).
 
+## kagi-courvix-dark-theme
+by [jeyso215](https://github.com/jeyso215)
+
+[🔗 Get it](https://gist.github.com/Jeyso215/76fd67b17d2407aa91a619fabc665887)
+![image](kagi-courvix-dark-theme.png)
+
 ## kagi-brave-theme
 by [httpjamesm](https://github.com/httpjamesm)
 
