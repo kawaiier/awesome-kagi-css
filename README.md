@@ -102,3 +102,9 @@ by [mathiazom](https://github.com/mathiazom)
 
 [🔗 Get it](https://gist.github.com/mathiazom/ccbdd3bd8ff7da8e010546fa186b1e70)
 ![image](kagi-mathiazom.png)
+
+## kagi-tokyo-night-storm
+by [caiolombello](https://github.com/caiolombello)
+
+[🔗 Get it](https://github.com/caiolombello/kagi-themes/blob/main/tokyo-night-storm.css)
+![image](kagi-tokyo-night-storm.png)
